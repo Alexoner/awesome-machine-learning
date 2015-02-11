@@ -4,6 +4,10 @@ The following is a list of free, open source books on machine learning, statisti
 
 * [An Introduction To Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) - Book + R Code
 * [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/) - Book
+* [Applied Predictive Modeling,2013]
+* [Artificial Intelligence A Modern Approach,3rd](http://51lica.com/wp-content/uploads/2012/05/Artificial-Intelligence-A-Modern-Approach-3rd-Edition.pdf)
+* [Machine Learning-A Probabilistic Perspective](http://www.huang-jianhua.com/download/Machine_Learning-_A_Probabilistic_Perspective.pdf)
+* [Probabilistic Graphical Models Principles and Techniques](Probabilistic Graphical Models Principles and Techniques)
 * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - Book + IPython Notebooks
 * [Thinking Bayes](http://www.greenteapress.com/thinkbayes/) - Book + Python Code
 * [Information Theory, Inference, and Learning Algorithms](http://www.inference.phy.cam.ac.uk/mackay/itila/book.html)
@@ -20,6 +24,7 @@ The following is a list of free, open source books on machine learning, statisti
 * [Forecasting: principles and practice](http://otexts.com/fpp/)
 * [Practical Artificial Intelligence Programming in Java](http://www.markwatson.com/opencontent_data/JavaAI3rd.pdf)
 * [Introduction to Machine Learning](http://arxiv.org/pdf/0904.3664v1.pdf)
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 * [Reinforcement Learning](http://www.intechopen.com/books/reinforcement_learning)
 * [Machine Learning](http://www.intechopen.com/books/machine_learning)
 * [A Quest for AI](http://ai.stanford.edu/~nilsson/QAI/qai.pdf)
@@ -47,6 +52,7 @@ and Prediction](http://users.soe.ucsc.edu/~draper/draper-BMIP-dec2005.pdf)
 * [Introduction to probability](http://math.dartmouth.edu/~prob/prob/prob.pdf)
 * [Principle of Uncertainty](http://uncertainty.stat.cmu.edu/wp-content/uploads/2011/05/principles-of-uncertainty.pdf)
 * [Probability & Statistics Cookbook](http://matthias.vallentin.net/probability-and-statistics-cookbook/)
+* [PROBABILITY THEORY:THE LOGIC OF SCIENCE](http://omega.albany.edu:8008/JaynesBook.html)
 * [Advanced Data Analysis From An Elmentary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf)
 
 ## Linear Algebra
@@ -56,3 +62,5 @@ and Prediction](http://users.soe.ucsc.edu/~draper/draper-BMIP-dec2005.pdf)
 * [Convex Optimization](http://www.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 * [Applied Numerical Computing](http://www.seas.ucla.edu/~vandenbe/103/reader.pdf)
 * [Applied Numerical Linear Algebra](http://uqu.edu.sa/files2/tiny_mce/plugins/filemanager/files/4281667/hamdy/hamdy1/cgfvnv/hamdy2/h1/h2/h3/h4/h5/h6/Applied%20Numerical%20Linear%20.pdf)
+* [Linear Algebra and Its Applications, 4th Edition: Gilbert Strang](http://www.amazon.com/Linear-Algebra-Its-Applications-Edition/dp/0030105676)
+* [Axler S. Linear Algebra Done Right](http://www.cin.ufpe.br/~jrsl/Books/Linear%20Algebra%20Done%20Right%20-%20Sheldon%20Axler.pdf)
